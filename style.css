@@ -1,0 +1,18 @@
+.navbar-inverse{
+    background: linear-gradient(#000000 0%,#474747 100%);
+    font-family: cursive;
+}
+marquee{
+    font-family:cursive;
+    font-weight: bolder;
+    font-size:20px;
+}
+h1{
+    text-decoration: underline;
+}
+img{
+    width:50px;
+}
+.page-header{
+    width:200px;
+}
